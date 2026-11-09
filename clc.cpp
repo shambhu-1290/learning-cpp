@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+
+// Understanding the concept of variables in C++ programming language and understanding the concept of arithmetic operations in C++ programming language.
+
 int main()
 {
     int f = 3;

@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Understanding the concept of variables in C++ programming language. 
 int main()
 {
     int va = 3;            // 3 was stored in var_a location
